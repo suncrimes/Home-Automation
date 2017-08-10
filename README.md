@@ -1,2 +1,2 @@
-# homeautomation
-Somproh's hoem automation
+# Home automation
+Somproh's home automation
